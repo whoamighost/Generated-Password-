@@ -6,3 +6,4 @@ A simple password generator for password recovery, if you forgot part of the pas
 
 Anyone who wants to support the project and developments can go here, TYDVaLjRmui6UkxDKBtLuhxvY1eweAr1gW USTD/TRC20
 
+https://github.com/whoamighost/Generated-Password-.git
