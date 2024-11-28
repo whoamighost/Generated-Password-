@@ -17,7 +17,7 @@ Install
 ##
 Clone this repository.
 ```bash
-https://github.com/whoamighost/Generated-Password-.git
+git clone https://github.com/whoamighost/Generated-Password-.git
 ```
 ##
 Linux/Mac
